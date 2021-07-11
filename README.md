@@ -1,2 +1,2 @@
 # testing-cypress
-project for learn cypress
+learning cypress
